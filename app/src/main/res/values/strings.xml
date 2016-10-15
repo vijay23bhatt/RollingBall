@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TeamBlue_RollingGame</string>
+    <string name="options">Options</string>
+    <string name="start">Start Game</string>
+    <string name="exit">Exit</string>
+    <string name="hiscore">Hi-scores</string>
+    <string name="clearScore">Clear scores</string>
+    <string name="back">Back</string>
+
+    <string-array name="speed">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>Fast</item>
+    </string-array>
+</resources>
